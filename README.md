@@ -46,7 +46,7 @@ git clone https://github.com/livealvi/Advance-Web-Technology
 
 #### Step - 2
 ```sh
-cd /Advance-Web-Technology/<task_folder_name>
+cd Advance-Web-Technology/<task_folder_name>
 ```
 **OR** Goto folder ```Advance-Web-Technology``` > ```APTW_Task_1``` Open with [Visual Studio Code](https://code.visualstudio.com/download) or Any Text Editor
 #### Step - 3
