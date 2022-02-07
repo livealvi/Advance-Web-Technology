@@ -33,10 +33,10 @@ Route::post('/hone',[LoginController::class, 'loginValidator'])->name('loginVali
 
 //registration
 Route::get('/registration',[RegistrationController::class, 'registration'])->name('registration');
-Route::post('/user', [RegistrationController::class, 'userCreate'])->name('userCreate');
+Route::post('/registration', [RegistrationController::class, 'userCreate'])->name('userCreate');
 
 //users
 Route::get('/users',[RegistrationController::class, 'users'])->name('users');
 
 //Contact
-Route::post('/home', [ContactControllers::class, 'contactUs'])->name('contactUs');
+Route::post('/contact', [ContactControllers::class, 'contactUs'])->name('contactUs');
