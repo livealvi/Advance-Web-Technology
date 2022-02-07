@@ -1,0 +1,1 @@
+<?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/laravel/APWT_Task_1/resources/views/welcome.blade.php ENDPATH**/ ?>
