@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title></title>
+    <title>APTW Task 2</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -37,7 +37,7 @@
     </script>
 
 
-    <script src="" async defer></script>
+    <script type="text/javascript" src="<?php echo e(url('js/loginValidation.js')); ?>"></script>
 </body>
 
 </html><?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/laravel/APTW_Task_2/resources/views/layouts/app.blade.php ENDPATH**/ ?>
