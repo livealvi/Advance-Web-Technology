@@ -44,7 +44,7 @@
 
               {!!
               session('user.1') == "Admin" ? '<li><a class="dropdown-item logout text-center"
-                  href="admin/dashboard">Dashboard</a></li>
+                  href="dashboard">Dashboard</a></li>
               <li>
                 <hr class="dropdown-divider">
               </li>' : ''
