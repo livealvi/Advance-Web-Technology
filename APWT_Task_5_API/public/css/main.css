@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    height: calc(100vh - 65px) !important;
+}
+
+.login,
+.contact,
+.registration {
+    padding: 50px;
+    border: 1px solid #ced4da;
+}
+
+.registration__form,
+.login__form {
+    width: 300px;
+}
+
+.registration__form button,
+.login__form button {
+    width: 100%;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contact {
+    width: 100%;
+}
+
+.logout:hover {
+    color: white;
+    background-color: #dc3545;
+}
